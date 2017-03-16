@@ -1,2 +1,2 @@
 # seedoubles
-a bash+gawk script to see duplicates of email addresses in a .csv file
+a bash+gawk script which allows to see duplicates of email addresses in a .csv file
